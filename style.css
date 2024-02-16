@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#heading{
+    height: 767px;
+
+    background-image: url("Background Heading.jpg");
+    background-size: cover;
+}
+#logo{
+    padding: 12px;
+    background-image: url("Logo.JPG");
+    background-size: cover;
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+}
+#heading_h1_1{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.4);
+    display: inline-block;
+    border-radius: 10px;
+}
+#body{
+    height: 1000px;
+}
